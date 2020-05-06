@@ -12,3 +12,5 @@ env
 # Model files
 *.pkl
 *.joblib
+config.bat
+node_modules
